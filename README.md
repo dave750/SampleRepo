@@ -1,2 +1,2 @@
 # SampleRepo
-A test run
+Trying out ways to structure development efforts for our teams needs
